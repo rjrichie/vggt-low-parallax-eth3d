@@ -1,0 +1,2368 @@
+[
+ {
+  "id": "courtyard_0000",
+  "scene": "courtyard",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0286.JPG",
+   "dslr_images_undistorted/DSC_0287.JPG",
+   "dslr_images_undistorted/DSC_0288.JPG",
+   "dslr_images_undistorted/DSC_0309.JPG",
+   "dslr_images_undistorted/DSC_0310.JPG"
+  ],
+  "ratio": 0.13349133295545798
+ },
+ {
+  "id": "courtyard_0001",
+  "scene": "courtyard",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0286.JPG",
+   "dslr_images_undistorted/DSC_0289.JPG",
+   "dslr_images_undistorted/DSC_0303.JPG",
+   "dslr_images_undistorted/DSC_0311.JPG",
+   "dslr_images_undistorted/DSC_0313.JPG"
+  ],
+  "ratio": 0.5186321080000412
+ },
+ {
+  "id": "courtyard_0002",
+  "scene": "courtyard",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0287.JPG",
+   "dslr_images_undistorted/DSC_0306.JPG",
+   "dslr_images_undistorted/DSC_0312.JPG",
+   "dslr_images_undistorted/DSC_0318.JPG",
+   "dslr_images_undistorted/DSC_0319.JPG"
+  ],
+  "ratio": 0.378075852605758
+ },
+ {
+  "id": "courtyard_0003",
+  "scene": "courtyard",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0287.JPG",
+   "dslr_images_undistorted/DSC_0288.JPG",
+   "dslr_images_undistorted/DSC_0289.JPG",
+   "dslr_images_undistorted/DSC_0290.JPG",
+   "dslr_images_undistorted/DSC_0309.JPG"
+  ],
+  "ratio": 0.2054686316565832
+ },
+ {
+  "id": "courtyard_0004",
+  "scene": "courtyard",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0288.JPG",
+   "dslr_images_undistorted/DSC_0300.JPG",
+   "dslr_images_undistorted/DSC_0309.JPG",
+   "dslr_images_undistorted/DSC_0317.JPG",
+   "dslr_images_undistorted/DSC_0319.JPG"
+  ],
+  "ratio": 0.7159862468185434
+ },
+ {
+  "id": "courtyard_0005",
+  "scene": "courtyard",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0287.JPG",
+   "dslr_images_undistorted/DSC_0288.JPG",
+   "dslr_images_undistorted/DSC_0289.JPG",
+   "dslr_images_undistorted/DSC_0290.JPG",
+   "dslr_images_undistorted/DSC_0291.JPG"
+  ],
+  "ratio": 0.20537764050234447
+ },
+ {
+  "id": "courtyard_0006",
+  "scene": "courtyard",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0289.JPG",
+   "dslr_images_undistorted/DSC_0293.JPG",
+   "dslr_images_undistorted/DSC_0295.JPG",
+   "dslr_images_undistorted/DSC_0303.JPG",
+   "dslr_images_undistorted/DSC_0305.JPG"
+  ],
+  "ratio": 0.4428974135281087
+ },
+ {
+  "id": "courtyard_0007",
+  "scene": "courtyard",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0288.JPG",
+   "dslr_images_undistorted/DSC_0289.JPG",
+   "dslr_images_undistorted/DSC_0290.JPG",
+   "dslr_images_undistorted/DSC_0291.JPG",
+   "dslr_images_undistorted/DSC_0292.JPG"
+  ],
+  "ratio": 0.201231960141556
+ },
+ {
+  "id": "courtyard_0008",
+  "scene": "courtyard",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0290.JPG",
+   "dslr_images_undistorted/DSC_0293.JPG",
+   "dslr_images_undistorted/DSC_0296.JPG",
+   "dslr_images_undistorted/DSC_0306.JPG",
+   "dslr_images_undistorted/DSC_0321.JPG"
+  ],
+  "ratio": 0.680043296610118
+ },
+ {
+  "id": "courtyard_0009",
+  "scene": "courtyard",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0289.JPG",
+   "dslr_images_undistorted/DSC_0290.JPG",
+   "dslr_images_undistorted/DSC_0291.JPG",
+   "dslr_images_undistorted/DSC_0292.JPG",
+   "dslr_images_undistorted/DSC_0293.JPG"
+  ],
+  "ratio": 0.20325507891738487
+ },
+ {
+  "id": "courtyard_0010",
+  "scene": "courtyard",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0290.JPG",
+   "dslr_images_undistorted/DSC_0291.JPG",
+   "dslr_images_undistorted/DSC_0308.JPG",
+   "dslr_images_undistorted/DSC_0317.JPG",
+   "dslr_images_undistorted/DSC_0322.JPG"
+  ],
+  "ratio": 1.1342410227584876
+ },
+ {
+  "id": "courtyard_0011",
+  "scene": "courtyard",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0290.JPG",
+   "dslr_images_undistorted/DSC_0291.JPG",
+   "dslr_images_undistorted/DSC_0292.JPG",
+   "dslr_images_undistorted/DSC_0293.JPG",
+   "dslr_images_undistorted/DSC_0294.JPG"
+  ],
+  "ratio": 0.214099062780661
+ },
+ {
+  "id": "courtyard_0012",
+  "scene": "courtyard",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0292.JPG",
+   "dslr_images_undistorted/DSC_0293.JPG",
+   "dslr_images_undistorted/DSC_0307.JPG",
+   "dslr_images_undistorted/DSC_0309.JPG",
+   "dslr_images_undistorted/DSC_0314.JPG"
+  ],
+  "ratio": 0.5548575029909557
+ },
+ {
+  "id": "courtyard_0013",
+  "scene": "courtyard",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0291.JPG",
+   "dslr_images_undistorted/DSC_0292.JPG",
+   "dslr_images_undistorted/DSC_0293.JPG",
+   "dslr_images_undistorted/DSC_0294.JPG",
+   "dslr_images_undistorted/DSC_0295.JPG"
+  ],
+  "ratio": 0.22469745691804388
+ },
+ {
+  "id": "courtyard_0014",
+  "scene": "courtyard",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0293.JPG",
+   "dslr_images_undistorted/DSC_0300.JPG",
+   "dslr_images_undistorted/DSC_0315.JPG",
+   "dslr_images_undistorted/DSC_0317.JPG",
+   "dslr_images_undistorted/DSC_0322.JPG"
+  ],
+  "ratio": 0.6656664448969258
+ },
+ {
+  "id": "courtyard_0015",
+  "scene": "courtyard",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0292.JPG",
+   "dslr_images_undistorted/DSC_0293.JPG",
+   "dslr_images_undistorted/DSC_0294.JPG",
+   "dslr_images_undistorted/DSC_0295.JPG",
+   "dslr_images_undistorted/DSC_0296.JPG"
+  ],
+  "ratio": 0.2230487592548573
+ },
+ {
+  "id": "courtyard_0016",
+  "scene": "courtyard",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0289.JPG",
+   "dslr_images_undistorted/DSC_0294.JPG",
+   "dslr_images_undistorted/DSC_0303.JPG",
+   "dslr_images_undistorted/DSC_0320.JPG",
+   "dslr_images_undistorted/DSC_0322.JPG"
+  ],
+  "ratio": 0.5694303379724387
+ },
+ {
+  "id": "courtyard_0017",
+  "scene": "courtyard",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0293.JPG",
+   "dslr_images_undistorted/DSC_0294.JPG",
+   "dslr_images_undistorted/DSC_0295.JPG",
+   "dslr_images_undistorted/DSC_0296.JPG",
+   "dslr_images_undistorted/DSC_0297.JPG"
+  ],
+  "ratio": 0.22237597265074638
+ },
+ {
+  "id": "courtyard_0018",
+  "scene": "courtyard",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0286.JPG",
+   "dslr_images_undistorted/DSC_0291.JPG",
+   "dslr_images_undistorted/DSC_0295.JPG",
+   "dslr_images_undistorted/DSC_0312.JPG",
+   "dslr_images_undistorted/DSC_0318.JPG"
+  ],
+  "ratio": 1.1063797344942325
+ },
+ {
+  "id": "courtyard_0019",
+  "scene": "courtyard",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0294.JPG",
+   "dslr_images_undistorted/DSC_0295.JPG",
+   "dslr_images_undistorted/DSC_0296.JPG",
+   "dslr_images_undistorted/DSC_0297.JPG",
+   "dslr_images_undistorted/DSC_0298.JPG"
+  ],
+  "ratio": 0.21137911407938517
+ },
+ {
+  "id": "courtyard_0020",
+  "scene": "courtyard",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0290.JPG",
+   "dslr_images_undistorted/DSC_0296.JPG",
+   "dslr_images_undistorted/DSC_0302.JPG",
+   "dslr_images_undistorted/DSC_0307.JPG",
+   "dslr_images_undistorted/DSC_0308.JPG"
+  ],
+  "ratio": 0.46268508052968693
+ },
+ {
+  "id": "courtyard_0021",
+  "scene": "courtyard",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0295.JPG",
+   "dslr_images_undistorted/DSC_0296.JPG",
+   "dslr_images_undistorted/DSC_0297.JPG",
+   "dslr_images_undistorted/DSC_0298.JPG",
+   "dslr_images_undistorted/DSC_0299.JPG"
+  ],
+  "ratio": 0.15836893358406942
+ },
+ {
+  "id": "courtyard_0022",
+  "scene": "courtyard",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0297.JPG",
+   "dslr_images_undistorted/DSC_0299.JPG",
+   "dslr_images_undistorted/DSC_0301.JPG",
+   "dslr_images_undistorted/DSC_0302.JPG",
+   "dslr_images_undistorted/DSC_0323.JPG"
+  ],
+  "ratio": 0.14603421910684353
+ },
+ {
+  "id": "courtyard_0023",
+  "scene": "courtyard",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0296.JPG",
+   "dslr_images_undistorted/DSC_0297.JPG",
+   "dslr_images_undistorted/DSC_0298.JPG",
+   "dslr_images_undistorted/DSC_0299.JPG",
+   "dslr_images_undistorted/DSC_0300.JPG"
+  ],
+  "ratio": 0.15360432808114405
+ },
+ {
+  "id": "courtyard_0024",
+  "scene": "courtyard",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0291.JPG",
+   "dslr_images_undistorted/DSC_0295.JPG",
+   "dslr_images_undistorted/DSC_0298.JPG",
+   "dslr_images_undistorted/DSC_0315.JPG",
+   "dslr_images_undistorted/DSC_0321.JPG"
+  ],
+  "ratio": 1.4442362328666098
+ },
+ {
+  "id": "courtyard_0025",
+  "scene": "courtyard",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0297.JPG",
+   "dslr_images_undistorted/DSC_0298.JPG",
+   "dslr_images_undistorted/DSC_0299.JPG",
+   "dslr_images_undistorted/DSC_0300.JPG",
+   "dslr_images_undistorted/DSC_0302.JPG"
+  ],
+  "ratio": 0.12441837054390802
+ },
+ {
+  "id": "courtyard_0026",
+  "scene": "courtyard",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0291.JPG",
+   "dslr_images_undistorted/DSC_0299.JPG",
+   "dslr_images_undistorted/DSC_0307.JPG",
+   "dslr_images_undistorted/DSC_0318.JPG",
+   "dslr_images_undistorted/DSC_0319.JPG"
+  ],
+  "ratio": 0.4225306186421689
+ },
+ {
+  "id": "courtyard_0027",
+  "scene": "courtyard",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0298.JPG",
+   "dslr_images_undistorted/DSC_0299.JPG",
+   "dslr_images_undistorted/DSC_0300.JPG",
+   "dslr_images_undistorted/DSC_0301.JPG",
+   "dslr_images_undistorted/DSC_0302.JPG"
+  ],
+  "ratio": 0.08408830020494756
+ },
+ {
+  "id": "courtyard_0028",
+  "scene": "courtyard",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0292.JPG",
+   "dslr_images_undistorted/DSC_0300.JPG",
+   "dslr_images_undistorted/DSC_0305.JPG",
+   "dslr_images_undistorted/DSC_0306.JPG",
+   "dslr_images_undistorted/DSC_0322.JPG"
+  ],
+  "ratio": 0.2718546639050496
+ },
+ {
+  "id": "courtyard_0029",
+  "scene": "courtyard",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0299.JPG",
+   "dslr_images_undistorted/DSC_0300.JPG",
+   "dslr_images_undistorted/DSC_0301.JPG",
+   "dslr_images_undistorted/DSC_0302.JPG",
+   "dslr_images_undistorted/DSC_0303.JPG"
+  ],
+  "ratio": 0.06857021716310337
+ },
+ {
+  "id": "courtyard_0030",
+  "scene": "courtyard",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0293.JPG",
+   "dslr_images_undistorted/DSC_0301.JPG",
+   "dslr_images_undistorted/DSC_0308.JPG",
+   "dslr_images_undistorted/DSC_0321.JPG",
+   "dslr_images_undistorted/DSC_0322.JPG"
+  ],
+  "ratio": 0.7249038001118226
+ },
+ {
+  "id": "courtyard_0031",
+  "scene": "courtyard",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0299.JPG",
+   "dslr_images_undistorted/DSC_0302.JPG",
+   "dslr_images_undistorted/DSC_0305.JPG",
+   "dslr_images_undistorted/DSC_0315.JPG",
+   "dslr_images_undistorted/DSC_0322.JPG"
+  ],
+  "ratio": 0.561492884077996
+ },
+ {
+  "id": "courtyard_0032",
+  "scene": "courtyard",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0300.JPG",
+   "dslr_images_undistorted/DSC_0301.JPG",
+   "dslr_images_undistorted/DSC_0302.JPG",
+   "dslr_images_undistorted/DSC_0303.JPG",
+   "dslr_images_undistorted/DSC_0304.JPG"
+  ],
+  "ratio": 0.06747512936364031
+ },
+ {
+  "id": "courtyard_0033",
+  "scene": "courtyard",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0291.JPG",
+   "dslr_images_undistorted/DSC_0303.JPG",
+   "dslr_images_undistorted/DSC_0307.JPG",
+   "dslr_images_undistorted/DSC_0311.JPG",
+   "dslr_images_undistorted/DSC_0323.JPG"
+  ],
+  "ratio": 0.5596103034700757
+ },
+ {
+  "id": "courtyard_0034",
+  "scene": "courtyard",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0301.JPG",
+   "dslr_images_undistorted/DSC_0302.JPG",
+   "dslr_images_undistorted/DSC_0303.JPG",
+   "dslr_images_undistorted/DSC_0304.JPG",
+   "dslr_images_undistorted/DSC_0305.JPG"
+  ],
+  "ratio": 0.09481304147144666
+ },
+ {
+  "id": "courtyard_0035",
+  "scene": "courtyard",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0297.JPG",
+   "dslr_images_undistorted/DSC_0298.JPG",
+   "dslr_images_undistorted/DSC_0301.JPG",
+   "dslr_images_undistorted/DSC_0304.JPG",
+   "dslr_images_undistorted/DSC_0305.JPG"
+  ],
+  "ratio": 0.18741640484618896
+ },
+ {
+  "id": "courtyard_0036",
+  "scene": "courtyard",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0303.JPG",
+   "dslr_images_undistorted/DSC_0304.JPG",
+   "dslr_images_undistorted/DSC_0305.JPG",
+   "dslr_images_undistorted/DSC_0306.JPG",
+   "dslr_images_undistorted/DSC_0307.JPG"
+  ],
+  "ratio": 0.13746265071727384
+ },
+ {
+  "id": "courtyard_0037",
+  "scene": "courtyard",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0288.JPG",
+   "dslr_images_undistorted/DSC_0297.JPG",
+   "dslr_images_undistorted/DSC_0302.JPG",
+   "dslr_images_undistorted/DSC_0305.JPG",
+   "dslr_images_undistorted/DSC_0317.JPG"
+  ],
+  "ratio": 0.41675412767279724
+ },
+ {
+  "id": "courtyard_0038",
+  "scene": "courtyard",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0304.JPG",
+   "dslr_images_undistorted/DSC_0305.JPG",
+   "dslr_images_undistorted/DSC_0306.JPG",
+   "dslr_images_undistorted/DSC_0307.JPG",
+   "dslr_images_undistorted/DSC_0308.JPG"
+  ],
+  "ratio": 0.14619007046365956
+ },
+ {
+  "id": "courtyard_0039",
+  "scene": "courtyard",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0290.JPG",
+   "dslr_images_undistorted/DSC_0291.JPG",
+   "dslr_images_undistorted/DSC_0294.JPG",
+   "dslr_images_undistorted/DSC_0295.JPG",
+   "dslr_images_undistorted/DSC_0306.JPG"
+  ],
+  "ratio": 0.4338127993458431
+ },
+ {
+  "id": "courtyard_0040",
+  "scene": "courtyard",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0287.JPG",
+   "dslr_images_undistorted/DSC_0306.JPG",
+   "dslr_images_undistorted/DSC_0307.JPG",
+   "dslr_images_undistorted/DSC_0308.JPG",
+   "dslr_images_undistorted/DSC_0309.JPG"
+  ],
+  "ratio": 0.18058639677113858
+ },
+ {
+  "id": "courtyard_0041",
+  "scene": "courtyard",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0288.JPG",
+   "dslr_images_undistorted/DSC_0291.JPG",
+   "dslr_images_undistorted/DSC_0307.JPG",
+   "dslr_images_undistorted/DSC_0312.JPG",
+   "dslr_images_undistorted/DSC_0321.JPG"
+  ],
+  "ratio": 0.4946965011622071
+ },
+ {
+  "id": "courtyard_0042",
+  "scene": "courtyard",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0286.JPG",
+   "dslr_images_undistorted/DSC_0287.JPG",
+   "dslr_images_undistorted/DSC_0307.JPG",
+   "dslr_images_undistorted/DSC_0308.JPG",
+   "dslr_images_undistorted/DSC_0309.JPG"
+  ],
+  "ratio": 0.14674256910588432
+ },
+ {
+  "id": "courtyard_0043",
+  "scene": "courtyard",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0299.JPG",
+   "dslr_images_undistorted/DSC_0301.JPG",
+   "dslr_images_undistorted/DSC_0303.JPG",
+   "dslr_images_undistorted/DSC_0308.JPG",
+   "dslr_images_undistorted/DSC_0320.JPG"
+  ],
+  "ratio": 0.4498106451494988
+ },
+ {
+  "id": "courtyard_0044",
+  "scene": "courtyard",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0286.JPG",
+   "dslr_images_undistorted/DSC_0287.JPG",
+   "dslr_images_undistorted/DSC_0308.JPG",
+   "dslr_images_undistorted/DSC_0309.JPG",
+   "dslr_images_undistorted/DSC_0310.JPG"
+  ],
+  "ratio": 0.12482296276325577
+ },
+ {
+  "id": "courtyard_0045",
+  "scene": "courtyard",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0303.JPG",
+   "dslr_images_undistorted/DSC_0309.JPG",
+   "dslr_images_undistorted/DSC_0313.JPG",
+   "dslr_images_undistorted/DSC_0315.JPG",
+   "dslr_images_undistorted/DSC_0318.JPG"
+  ],
+  "ratio": 0.4869348080556319
+ },
+ {
+  "id": "courtyard_0046",
+  "scene": "courtyard",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0291.JPG",
+   "dslr_images_undistorted/DSC_0293.JPG",
+   "dslr_images_undistorted/DSC_0306.JPG",
+   "dslr_images_undistorted/DSC_0308.JPG",
+   "dslr_images_undistorted/DSC_0310.JPG"
+  ],
+  "ratio": 0.4886765684785348
+ },
+ {
+  "id": "courtyard_0047",
+  "scene": "courtyard",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0311.JPG",
+   "dslr_images_undistorted/DSC_0312.JPG",
+   "dslr_images_undistorted/DSC_0317.JPG",
+   "dslr_images_undistorted/DSC_0318.JPG",
+   "dslr_images_undistorted/DSC_0321.JPG"
+  ],
+  "ratio": 0.23455086606369746
+ },
+ {
+  "id": "courtyard_0048",
+  "scene": "courtyard",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0298.JPG",
+   "dslr_images_undistorted/DSC_0301.JPG",
+   "dslr_images_undistorted/DSC_0307.JPG",
+   "dslr_images_undistorted/DSC_0311.JPG",
+   "dslr_images_undistorted/DSC_0318.JPG"
+  ],
+  "ratio": 0.5359670050167866
+ },
+ {
+  "id": "courtyard_0049",
+  "scene": "courtyard",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0311.JPG",
+   "dslr_images_undistorted/DSC_0312.JPG",
+   "dslr_images_undistorted/DSC_0313.JPG",
+   "dslr_images_undistorted/DSC_0315.JPG",
+   "dslr_images_undistorted/DSC_0317.JPG"
+  ],
+  "ratio": 0.1631553938143416
+ },
+ {
+  "id": "courtyard_0050",
+  "scene": "courtyard",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0287.JPG",
+   "dslr_images_undistorted/DSC_0293.JPG",
+   "dslr_images_undistorted/DSC_0300.JPG",
+   "dslr_images_undistorted/DSC_0303.JPG",
+   "dslr_images_undistorted/DSC_0312.JPG"
+  ],
+  "ratio": 0.5219888395142559
+ },
+ {
+  "id": "courtyard_0051",
+  "scene": "courtyard",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0312.JPG",
+   "dslr_images_undistorted/DSC_0313.JPG",
+   "dslr_images_undistorted/DSC_0314.JPG",
+   "dslr_images_undistorted/DSC_0315.JPG",
+   "dslr_images_undistorted/DSC_0317.JPG"
+  ],
+  "ratio": 0.16373952467275638
+ },
+ {
+  "id": "courtyard_0052",
+  "scene": "courtyard",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0296.JPG",
+   "dslr_images_undistorted/DSC_0307.JPG",
+   "dslr_images_undistorted/DSC_0309.JPG",
+   "dslr_images_undistorted/DSC_0313.JPG",
+   "dslr_images_undistorted/DSC_0314.JPG"
+  ],
+  "ratio": 0.6598275040209108
+ },
+ {
+  "id": "courtyard_0053",
+  "scene": "courtyard",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0312.JPG",
+   "dslr_images_undistorted/DSC_0313.JPG",
+   "dslr_images_undistorted/DSC_0314.JPG",
+   "dslr_images_undistorted/DSC_0315.JPG",
+   "dslr_images_undistorted/DSC_0316.JPG"
+  ],
+  "ratio": 0.18681982439080777
+ },
+ {
+  "id": "courtyard_0054",
+  "scene": "courtyard",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0289.JPG",
+   "dslr_images_undistorted/DSC_0292.JPG",
+   "dslr_images_undistorted/DSC_0295.JPG",
+   "dslr_images_undistorted/DSC_0300.JPG",
+   "dslr_images_undistorted/DSC_0314.JPG"
+  ],
+  "ratio": 0.748025868683467
+ },
+ {
+  "id": "courtyard_0055",
+  "scene": "courtyard",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0313.JPG",
+   "dslr_images_undistorted/DSC_0314.JPG",
+   "dslr_images_undistorted/DSC_0315.JPG",
+   "dslr_images_undistorted/DSC_0316.JPG",
+   "dslr_images_undistorted/DSC_0317.JPG"
+  ],
+  "ratio": 0.1866594330015488
+ },
+ {
+  "id": "courtyard_0056",
+  "scene": "courtyard",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0288.JPG",
+   "dslr_images_undistorted/DSC_0290.JPG",
+   "dslr_images_undistorted/DSC_0315.JPG",
+   "dslr_images_undistorted/DSC_0321.JPG",
+   "dslr_images_undistorted/DSC_0323.JPG"
+  ],
+  "ratio": 0.7512974573411791
+ },
+ {
+  "id": "courtyard_0057",
+  "scene": "courtyard",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0287.JPG",
+   "dslr_images_undistorted/DSC_0293.JPG",
+   "dslr_images_undistorted/DSC_0298.JPG",
+   "dslr_images_undistorted/DSC_0316.JPG",
+   "dslr_images_undistorted/DSC_0323.JPG"
+  ],
+  "ratio": 1.6883102642018248
+ },
+ {
+  "id": "courtyard_0058",
+  "scene": "courtyard",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0311.JPG",
+   "dslr_images_undistorted/DSC_0312.JPG",
+   "dslr_images_undistorted/DSC_0315.JPG",
+   "dslr_images_undistorted/DSC_0316.JPG",
+   "dslr_images_undistorted/DSC_0317.JPG"
+  ],
+  "ratio": 0.1631553938143416
+ },
+ {
+  "id": "courtyard_0059",
+  "scene": "courtyard",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0291.JPG",
+   "dslr_images_undistorted/DSC_0293.JPG",
+   "dslr_images_undistorted/DSC_0309.JPG",
+   "dslr_images_undistorted/DSC_0311.JPG",
+   "dslr_images_undistorted/DSC_0317.JPG"
+  ],
+  "ratio": 1.1609120035462848
+ },
+ {
+  "id": "courtyard_0060",
+  "scene": "courtyard",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0311.JPG",
+   "dslr_images_undistorted/DSC_0318.JPG",
+   "dslr_images_undistorted/DSC_0319.JPG",
+   "dslr_images_undistorted/DSC_0320.JPG",
+   "dslr_images_undistorted/DSC_0321.JPG"
+  ],
+  "ratio": 0.22137452395404764
+ },
+ {
+  "id": "courtyard_0061",
+  "scene": "courtyard",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0287.JPG",
+   "dslr_images_undistorted/DSC_0288.JPG",
+   "dslr_images_undistorted/DSC_0293.JPG",
+   "dslr_images_undistorted/DSC_0298.JPG",
+   "dslr_images_undistorted/DSC_0318.JPG"
+  ],
+  "ratio": 1.003892266025412
+ },
+ {
+  "id": "courtyard_0062",
+  "scene": "courtyard",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0307.JPG",
+   "dslr_images_undistorted/DSC_0308.JPG",
+   "dslr_images_undistorted/DSC_0318.JPG",
+   "dslr_images_undistorted/DSC_0319.JPG",
+   "dslr_images_undistorted/DSC_0320.JPG"
+  ],
+  "ratio": 0.2698698258300586
+ },
+ {
+  "id": "courtyard_0063",
+  "scene": "courtyard",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0293.JPG",
+   "dslr_images_undistorted/DSC_0297.JPG",
+   "dslr_images_undistorted/DSC_0299.JPG",
+   "dslr_images_undistorted/DSC_0316.JPG",
+   "dslr_images_undistorted/DSC_0319.JPG"
+  ],
+  "ratio": 1.137480369566013
+ },
+ {
+  "id": "courtyard_0064",
+  "scene": "courtyard",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0287.JPG",
+   "dslr_images_undistorted/DSC_0289.JPG",
+   "dslr_images_undistorted/DSC_0313.JPG",
+   "dslr_images_undistorted/DSC_0320.JPG",
+   "dslr_images_undistorted/DSC_0321.JPG"
+  ],
+  "ratio": 0.5084729925809278
+ },
+ {
+  "id": "courtyard_0065",
+  "scene": "courtyard",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0318.JPG",
+   "dslr_images_undistorted/DSC_0320.JPG",
+   "dslr_images_undistorted/DSC_0321.JPG",
+   "dslr_images_undistorted/DSC_0322.JPG",
+   "dslr_images_undistorted/DSC_0323.JPG"
+  ],
+  "ratio": 0.19304090755495137
+ },
+ {
+  "id": "courtyard_0066",
+  "scene": "courtyard",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0290.JPG",
+   "dslr_images_undistorted/DSC_0292.JPG",
+   "dslr_images_undistorted/DSC_0300.JPG",
+   "dslr_images_undistorted/DSC_0302.JPG",
+   "dslr_images_undistorted/DSC_0321.JPG"
+  ],
+  "ratio": 0.3912694459315242
+ },
+ {
+  "id": "courtyard_0067",
+  "scene": "courtyard",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0311.JPG",
+   "dslr_images_undistorted/DSC_0318.JPG",
+   "dslr_images_undistorted/DSC_0321.JPG",
+   "dslr_images_undistorted/DSC_0322.JPG",
+   "dslr_images_undistorted/DSC_0323.JPG"
+  ],
+  "ratio": 0.21740918656195932
+ },
+ {
+  "id": "courtyard_0068",
+  "scene": "courtyard",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0290.JPG",
+   "dslr_images_undistorted/DSC_0305.JPG",
+   "dslr_images_undistorted/DSC_0308.JPG",
+   "dslr_images_undistorted/DSC_0313.JPG",
+   "dslr_images_undistorted/DSC_0322.JPG"
+  ],
+  "ratio": 0.5272091257996535
+ },
+ {
+  "id": "courtyard_0069",
+  "scene": "courtyard",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0311.JPG",
+   "dslr_images_undistorted/DSC_0317.JPG",
+   "dslr_images_undistorted/DSC_0321.JPG",
+   "dslr_images_undistorted/DSC_0322.JPG",
+   "dslr_images_undistorted/DSC_0323.JPG"
+  ],
+  "ratio": 0.22000834224244234
+ },
+ {
+  "id": "courtyard_0070",
+  "scene": "courtyard",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0289.JPG",
+   "dslr_images_undistorted/DSC_0297.JPG",
+   "dslr_images_undistorted/DSC_0315.JPG",
+   "dslr_images_undistorted/DSC_0318.JPG",
+   "dslr_images_undistorted/DSC_0323.JPG"
+  ],
+  "ratio": 0.6720954718039005
+ },
+ {
+  "id": "office_0071",
+  "scene": "office",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0219.JPG",
+   "dslr_images_undistorted/DSC_0228.JPG",
+   "dslr_images_undistorted/DSC_0235.JPG",
+   "dslr_images_undistorted/DSC_0240.JPG",
+   "dslr_images_undistorted/DSC_0248.JPG"
+  ],
+  "ratio": 0.1377602342028806
+ },
+ {
+  "id": "office_0072",
+  "scene": "office",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0219.JPG",
+   "dslr_images_undistorted/DSC_0221.JPG",
+   "dslr_images_undistorted/DSC_0223.JPG",
+   "dslr_images_undistorted/DSC_0250.JPG",
+   "dslr_images_undistorted/DSC_0253.JPG"
+  ],
+  "ratio": 0.3356434604157666
+ },
+ {
+  "id": "office_0073",
+  "scene": "office",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0220.JPG",
+   "dslr_images_undistorted/DSC_0228.JPG",
+   "dslr_images_undistorted/DSC_0229.JPG",
+   "dslr_images_undistorted/DSC_0235.JPG",
+   "dslr_images_undistorted/DSC_0248.JPG"
+  ],
+  "ratio": 0.037010213611969114
+ },
+ {
+  "id": "office_0074",
+  "scene": "office",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0220.JPG",
+   "dslr_images_undistorted/DSC_0230.JPG",
+   "dslr_images_undistorted/DSC_0235.JPG",
+   "dslr_images_undistorted/DSC_0238.JPG",
+   "dslr_images_undistorted/DSC_0239.JPG"
+  ],
+  "ratio": 0.26051761676963114
+ },
+ {
+  "id": "office_0075",
+  "scene": "office",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0221.JPG",
+   "dslr_images_undistorted/DSC_0229.JPG",
+   "dslr_images_undistorted/DSC_0230.JPG",
+   "dslr_images_undistorted/DSC_0236.JPG",
+   "dslr_images_undistorted/DSC_0242.JPG"
+  ],
+  "ratio": 0.08515917006121378
+ },
+ {
+  "id": "office_0076",
+  "scene": "office",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0221.JPG",
+   "dslr_images_undistorted/DSC_0229.JPG",
+   "dslr_images_undistorted/DSC_0242.JPG",
+   "dslr_images_undistorted/DSC_0249.JPG",
+   "dslr_images_undistorted/DSC_0254.JPG"
+  ],
+  "ratio": 0.39821368834432735
+ },
+ {
+  "id": "office_0077",
+  "scene": "office",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0222.JPG",
+   "dslr_images_undistorted/DSC_0231.JPG",
+   "dslr_images_undistorted/DSC_0237.JPG",
+   "dslr_images_undistorted/DSC_0242.JPG",
+   "dslr_images_undistorted/DSC_0243.JPG"
+  ],
+  "ratio": 0.07335588348403792
+ },
+ {
+  "id": "office_0078",
+  "scene": "office",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0222.JPG",
+   "dslr_images_undistorted/DSC_0230.JPG",
+   "dslr_images_undistorted/DSC_0252.JPG",
+   "dslr_images_undistorted/DSC_0253.JPG",
+   "dslr_images_undistorted/DSC_0255.JPG"
+  ],
+  "ratio": 0.5407651755454568
+ },
+ {
+  "id": "office_0079",
+  "scene": "office",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0222.JPG",
+   "dslr_images_undistorted/DSC_0223.JPG",
+   "dslr_images_undistorted/DSC_0231.JPG",
+   "dslr_images_undistorted/DSC_0243.JPG",
+   "dslr_images_undistorted/DSC_0250.JPG"
+  ],
+  "ratio": 0.12733778277698526
+ },
+ {
+  "id": "office_0080",
+  "scene": "office",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0220.JPG",
+   "dslr_images_undistorted/DSC_0223.JPG",
+   "dslr_images_undistorted/DSC_0229.JPG",
+   "dslr_images_undistorted/DSC_0237.JPG",
+   "dslr_images_undistorted/DSC_0252.JPG"
+  ],
+  "ratio": 0.26621477999161536
+ },
+ {
+  "id": "office_0081",
+  "scene": "office",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0220.JPG",
+   "dslr_images_undistorted/DSC_0228.JPG",
+   "dslr_images_undistorted/DSC_0235.JPG",
+   "dslr_images_undistorted/DSC_0241.JPG",
+   "dslr_images_undistorted/DSC_0248.JPG"
+  ],
+  "ratio": 0.036347350592952514
+ },
+ {
+  "id": "office_0082",
+  "scene": "office",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0222.JPG",
+   "dslr_images_undistorted/DSC_0228.JPG",
+   "dslr_images_undistorted/DSC_0235.JPG",
+   "dslr_images_undistorted/DSC_0243.JPG",
+   "dslr_images_undistorted/DSC_0250.JPG"
+  ],
+  "ratio": 0.23208715395951088
+ },
+ {
+  "id": "office_0083",
+  "scene": "office",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0220.JPG",
+   "dslr_images_undistorted/DSC_0228.JPG",
+   "dslr_images_undistorted/DSC_0229.JPG",
+   "dslr_images_undistorted/DSC_0241.JPG",
+   "dslr_images_undistorted/DSC_0248.JPG"
+  ],
+  "ratio": 0.03731131033075999
+ },
+ {
+  "id": "office_0084",
+  "scene": "office",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0219.JPG",
+   "dslr_images_undistorted/DSC_0228.JPG",
+   "dslr_images_undistorted/DSC_0229.JPG",
+   "dslr_images_undistorted/DSC_0241.JPG",
+   "dslr_images_undistorted/DSC_0252.JPG"
+  ],
+  "ratio": 0.18330872285239333
+ },
+ {
+  "id": "office_0085",
+  "scene": "office",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0220.JPG",
+   "dslr_images_undistorted/DSC_0221.JPG",
+   "dslr_images_undistorted/DSC_0230.JPG",
+   "dslr_images_undistorted/DSC_0236.JPG",
+   "dslr_images_undistorted/DSC_0242.JPG"
+  ],
+  "ratio": 0.07901687624580041
+ },
+ {
+  "id": "office_0086",
+  "scene": "office",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0230.JPG",
+   "dslr_images_undistorted/DSC_0240.JPG",
+   "dslr_images_undistorted/DSC_0242.JPG",
+   "dslr_images_undistorted/DSC_0249.JPG",
+   "dslr_images_undistorted/DSC_0252.JPG"
+  ],
+  "ratio": 0.36551995217793204
+ },
+ {
+  "id": "office_0087",
+  "scene": "office",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0222.JPG",
+   "dslr_images_undistorted/DSC_0223.JPG",
+   "dslr_images_undistorted/DSC_0231.JPG",
+   "dslr_images_undistorted/DSC_0242.JPG",
+   "dslr_images_undistorted/DSC_0243.JPG"
+  ],
+  "ratio": 0.09262410485984342
+ },
+ {
+  "id": "office_0088",
+  "scene": "office",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0231.JPG",
+   "dslr_images_undistorted/DSC_0236.JPG",
+   "dslr_images_undistorted/DSC_0238.JPG",
+   "dslr_images_undistorted/DSC_0243.JPG",
+   "dslr_images_undistorted/DSC_0251.JPG"
+  ],
+  "ratio": 0.23893918402968428
+ },
+ {
+  "id": "office_0089",
+  "scene": "office",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0220.JPG",
+   "dslr_images_undistorted/DSC_0228.JPG",
+   "dslr_images_undistorted/DSC_0235.JPG",
+   "dslr_images_undistorted/DSC_0236.JPG",
+   "dslr_images_undistorted/DSC_0248.JPG"
+  ],
+  "ratio": 0.037010213611969114
+ },
+ {
+  "id": "office_0090",
+  "scene": "office",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0223.JPG",
+   "dslr_images_undistorted/DSC_0231.JPG",
+   "dslr_images_undistorted/DSC_0235.JPG",
+   "dslr_images_undistorted/DSC_0239.JPG",
+   "dslr_images_undistorted/DSC_0252.JPG"
+  ],
+  "ratio": 0.2506142794622618
+ },
+ {
+  "id": "office_0091",
+  "scene": "office",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0220.JPG",
+   "dslr_images_undistorted/DSC_0230.JPG",
+   "dslr_images_undistorted/DSC_0235.JPG",
+   "dslr_images_undistorted/DSC_0236.JPG",
+   "dslr_images_undistorted/DSC_0248.JPG"
+  ],
+  "ratio": 0.046432077038009306
+ },
+ {
+  "id": "office_0092",
+  "scene": "office",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0219.JPG",
+   "dslr_images_undistorted/DSC_0236.JPG",
+   "dslr_images_undistorted/DSC_0241.JPG",
+   "dslr_images_undistorted/DSC_0248.JPG",
+   "dslr_images_undistorted/DSC_0253.JPG"
+  ],
+  "ratio": 0.16757057959296615
+ },
+ {
+  "id": "office_0093",
+  "scene": "office",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0220.JPG",
+   "dslr_images_undistorted/DSC_0221.JPG",
+   "dslr_images_undistorted/DSC_0236.JPG",
+   "dslr_images_undistorted/DSC_0237.JPG",
+   "dslr_images_undistorted/DSC_0254.JPG"
+  ],
+  "ratio": 0.20765113266481627
+ },
+ {
+  "id": "office_0094",
+  "scene": "office",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0223.JPG",
+   "dslr_images_undistorted/DSC_0231.JPG",
+   "dslr_images_undistorted/DSC_0238.JPG",
+   "dslr_images_undistorted/DSC_0249.JPG",
+   "dslr_images_undistorted/DSC_0250.JPG"
+  ],
+  "ratio": 0.161932961731992
+ },
+ {
+  "id": "office_0095",
+  "scene": "office",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0223.JPG",
+   "dslr_images_undistorted/DSC_0230.JPG",
+   "dslr_images_undistorted/DSC_0231.JPG",
+   "dslr_images_undistorted/DSC_0238.JPG",
+   "dslr_images_undistorted/DSC_0248.JPG"
+  ],
+  "ratio": 0.20244347138464697
+ },
+ {
+  "id": "office_0096",
+  "scene": "office",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0223.JPG",
+   "dslr_images_undistorted/DSC_0239.JPG",
+   "dslr_images_undistorted/DSC_0240.JPG",
+   "dslr_images_undistorted/DSC_0250.JPG",
+   "dslr_images_undistorted/DSC_0251.JPG"
+  ],
+  "ratio": 0.19414006755114974
+ },
+ {
+  "id": "office_0097",
+  "scene": "office",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0237.JPG",
+   "dslr_images_undistorted/DSC_0239.JPG",
+   "dslr_images_undistorted/DSC_0242.JPG",
+   "dslr_images_undistorted/DSC_0250.JPG",
+   "dslr_images_undistorted/DSC_0255.JPG"
+  ],
+  "ratio": 0.28854709373496407
+ },
+ {
+  "id": "office_0098",
+  "scene": "office",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0235.JPG",
+   "dslr_images_undistorted/DSC_0237.JPG",
+   "dslr_images_undistorted/DSC_0240.JPG",
+   "dslr_images_undistorted/DSC_0249.JPG",
+   "dslr_images_undistorted/DSC_0252.JPG"
+  ],
+  "ratio": 0.3444711212049076
+ },
+ {
+  "id": "office_0099",
+  "scene": "office",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0223.JPG",
+   "dslr_images_undistorted/DSC_0241.JPG",
+   "dslr_images_undistorted/DSC_0250.JPG",
+   "dslr_images_undistorted/DSC_0251.JPG",
+   "dslr_images_undistorted/DSC_0253.JPG"
+  ],
+  "ratio": 0.38886846646189266
+ },
+ {
+  "id": "office_0100",
+  "scene": "office",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0222.JPG",
+   "dslr_images_undistorted/DSC_0230.JPG",
+   "dslr_images_undistorted/DSC_0231.JPG",
+   "dslr_images_undistorted/DSC_0236.JPG",
+   "dslr_images_undistorted/DSC_0242.JPG"
+  ],
+  "ratio": 0.08334592426319315
+ },
+ {
+  "id": "office_0101",
+  "scene": "office",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0235.JPG",
+   "dslr_images_undistorted/DSC_0238.JPG",
+   "dslr_images_undistorted/DSC_0239.JPG",
+   "dslr_images_undistorted/DSC_0242.JPG",
+   "dslr_images_undistorted/DSC_0254.JPG"
+  ],
+  "ratio": 0.3686941867833722
+ },
+ {
+  "id": "office_0102",
+  "scene": "office",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0219.JPG",
+   "dslr_images_undistorted/DSC_0221.JPG",
+   "dslr_images_undistorted/DSC_0243.JPG",
+   "dslr_images_undistorted/DSC_0250.JPG",
+   "dslr_images_undistorted/DSC_0251.JPG"
+  ],
+  "ratio": 0.31933502793154434
+ },
+ {
+  "id": "office_0103",
+  "scene": "office",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0228.JPG",
+   "dslr_images_undistorted/DSC_0229.JPG",
+   "dslr_images_undistorted/DSC_0236.JPG",
+   "dslr_images_undistorted/DSC_0248.JPG",
+   "dslr_images_undistorted/DSC_0253.JPG"
+  ],
+  "ratio": 0.07884554349341341
+ },
+ {
+  "id": "office_0104",
+  "scene": "office",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0223.JPG",
+   "dslr_images_undistorted/DSC_0237.JPG",
+   "dslr_images_undistorted/DSC_0238.JPG",
+   "dslr_images_undistorted/DSC_0249.JPG",
+   "dslr_images_undistorted/DSC_0253.JPG"
+  ],
+  "ratio": 0.24544564054699908
+ },
+ {
+  "id": "office_0105",
+  "scene": "office",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0230.JPG",
+   "dslr_images_undistorted/DSC_0238.JPG",
+   "dslr_images_undistorted/DSC_0240.JPG",
+   "dslr_images_undistorted/DSC_0249.JPG",
+   "dslr_images_undistorted/DSC_0251.JPG"
+  ],
+  "ratio": 0.27190770519899976
+ },
+ {
+  "id": "office_0106",
+  "scene": "office",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0223.JPG",
+   "dslr_images_undistorted/DSC_0238.JPG",
+   "dslr_images_undistorted/DSC_0239.JPG",
+   "dslr_images_undistorted/DSC_0250.JPG",
+   "dslr_images_undistorted/DSC_0251.JPG"
+  ],
+  "ratio": 0.17133092920652004
+ },
+ {
+  "id": "office_0107",
+  "scene": "office",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0239.JPG",
+   "dslr_images_undistorted/DSC_0248.JPG",
+   "dslr_images_undistorted/DSC_0250.JPG",
+   "dslr_images_undistorted/DSC_0252.JPG",
+   "dslr_images_undistorted/DSC_0253.JPG"
+  ],
+  "ratio": 0.36394249988180105
+ },
+ {
+  "id": "office_0108",
+  "scene": "office",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0239.JPG",
+   "dslr_images_undistorted/DSC_0240.JPG",
+   "dslr_images_undistorted/DSC_0250.JPG",
+   "dslr_images_undistorted/DSC_0251.JPG",
+   "dslr_images_undistorted/DSC_0252.JPG"
+  ],
+  "ratio": 0.1780511183054619
+ },
+ {
+  "id": "office_0109",
+  "scene": "office",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0220.JPG",
+   "dslr_images_undistorted/DSC_0238.JPG",
+   "dslr_images_undistorted/DSC_0248.JPG",
+   "dslr_images_undistorted/DSC_0251.JPG",
+   "dslr_images_undistorted/DSC_0253.JPG"
+  ],
+  "ratio": 0.41613775101491574
+ },
+ {
+  "id": "office_0110",
+  "scene": "office",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0219.JPG",
+   "dslr_images_undistorted/DSC_0239.JPG",
+   "dslr_images_undistorted/DSC_0240.JPG",
+   "dslr_images_undistorted/DSC_0251.JPG",
+   "dslr_images_undistorted/DSC_0252.JPG"
+  ],
+  "ratio": 0.1899563667056339
+ },
+ {
+  "id": "office_0111",
+  "scene": "office",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0239.JPG",
+   "dslr_images_undistorted/DSC_0251.JPG",
+   "dslr_images_undistorted/DSC_0252.JPG",
+   "dslr_images_undistorted/DSC_0253.JPG",
+   "dslr_images_undistorted/DSC_0255.JPG"
+  ],
+  "ratio": 0.27877151004082773
+ },
+ {
+  "id": "office_0112",
+  "scene": "office",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0223.JPG",
+   "dslr_images_undistorted/DSC_0238.JPG",
+   "dslr_images_undistorted/DSC_0249.JPG",
+   "dslr_images_undistorted/DSC_0253.JPG",
+   "dslr_images_undistorted/DSC_0254.JPG"
+  ],
+  "ratio": 0.3361355747994522
+ },
+ {
+  "id": "office_0113",
+  "scene": "office",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0220.JPG",
+   "dslr_images_undistorted/DSC_0221.JPG",
+   "dslr_images_undistorted/DSC_0228.JPG",
+   "dslr_images_undistorted/DSC_0240.JPG",
+   "dslr_images_undistorted/DSC_0253.JPG"
+  ],
+  "ratio": 0.22182850419811853
+ },
+ {
+  "id": "office_0114",
+  "scene": "office",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0228.JPG",
+   "dslr_images_undistorted/DSC_0231.JPG",
+   "dslr_images_undistorted/DSC_0240.JPG",
+   "dslr_images_undistorted/DSC_0252.JPG",
+   "dslr_images_undistorted/DSC_0254.JPG"
+  ],
+  "ratio": 0.37580557956859867
+ },
+ {
+  "id": "office_0115",
+  "scene": "office",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0239.JPG",
+   "dslr_images_undistorted/DSC_0250.JPG",
+   "dslr_images_undistorted/DSC_0251.JPG",
+   "dslr_images_undistorted/DSC_0252.JPG",
+   "dslr_images_undistorted/DSC_0255.JPG"
+  ],
+  "ratio": 0.27229061278790667
+ },
+ {
+  "id": "office_0116",
+  "scene": "office",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0241.JPG",
+   "dslr_images_undistorted/DSC_0242.JPG",
+   "dslr_images_undistorted/DSC_0243.JPG",
+   "dslr_images_undistorted/DSC_0249.JPG",
+   "dslr_images_undistorted/DSC_0255.JPG"
+  ],
+  "ratio": 0.4742540875793825
+ },
+ {
+  "id": "pipes_0117",
+  "scene": "pipes",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0634.JPG",
+   "dslr_images_undistorted/DSC_0635.JPG",
+   "dslr_images_undistorted/DSC_0643.JPG",
+   "dslr_images_undistorted/DSC_0646.JPG",
+   "dslr_images_undistorted/DSC_0647.JPG"
+  ],
+  "ratio": 0.27191086247156604
+ },
+ {
+  "id": "pipes_0118",
+  "scene": "pipes",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0634.JPG",
+   "dslr_images_undistorted/DSC_0635.JPG",
+   "dslr_images_undistorted/DSC_0642.JPG",
+   "dslr_images_undistorted/DSC_0646.JPG",
+   "dslr_images_undistorted/DSC_0647.JPG"
+  ],
+  "ratio": 0.41102411440081615
+ },
+ {
+  "id": "pipes_0119",
+  "scene": "pipes",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0634.JPG",
+   "dslr_images_undistorted/DSC_0635.JPG",
+   "dslr_images_undistorted/DSC_0636.JPG",
+   "dslr_images_undistorted/DSC_0643.JPG",
+   "dslr_images_undistorted/DSC_0644.JPG"
+  ],
+  "ratio": 0.3441353217346386
+ },
+ {
+  "id": "pipes_0120",
+  "scene": "pipes",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0634.JPG",
+   "dslr_images_undistorted/DSC_0635.JPG",
+   "dslr_images_undistorted/DSC_0639.JPG",
+   "dslr_images_undistorted/DSC_0640.JPG",
+   "dslr_images_undistorted/DSC_0642.JPG"
+  ],
+  "ratio": 0.42350982617724026
+ },
+ {
+  "id": "pipes_0121",
+  "scene": "pipes",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0636.JPG",
+   "dslr_images_undistorted/DSC_0637.JPG",
+   "dslr_images_undistorted/DSC_0640.JPG",
+   "dslr_images_undistorted/DSC_0644.JPG",
+   "dslr_images_undistorted/DSC_0645.JPG"
+  ],
+  "ratio": 0.15671389282887874
+ },
+ {
+  "id": "pipes_0122",
+  "scene": "pipes",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0636.JPG",
+   "dslr_images_undistorted/DSC_0638.JPG",
+   "dslr_images_undistorted/DSC_0641.JPG",
+   "dslr_images_undistorted/DSC_0643.JPG",
+   "dslr_images_undistorted/DSC_0647.JPG"
+  ],
+  "ratio": 0.7194619573730705
+ },
+ {
+  "id": "pipes_0123",
+  "scene": "pipes",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0636.JPG",
+   "dslr_images_undistorted/DSC_0637.JPG",
+   "dslr_images_undistorted/DSC_0640.JPG",
+   "dslr_images_undistorted/DSC_0642.JPG",
+   "dslr_images_undistorted/DSC_0645.JPG"
+  ],
+  "ratio": 0.15196372996014787
+ },
+ {
+  "id": "pipes_0124",
+  "scene": "pipes",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0634.JPG",
+   "dslr_images_undistorted/DSC_0635.JPG",
+   "dslr_images_undistorted/DSC_0636.JPG",
+   "dslr_images_undistorted/DSC_0637.JPG",
+   "dslr_images_undistorted/DSC_0645.JPG"
+  ],
+  "ratio": 0.3840167353265403
+ },
+ {
+  "id": "pipes_0125",
+  "scene": "pipes",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0636.JPG",
+   "dslr_images_undistorted/DSC_0637.JPG",
+   "dslr_images_undistorted/DSC_0638.JPG",
+   "dslr_images_undistorted/DSC_0639.JPG",
+   "dslr_images_undistorted/DSC_0645.JPG"
+  ],
+  "ratio": 0.26304542293186445
+ },
+ {
+  "id": "pipes_0126",
+  "scene": "pipes",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0638.JPG",
+   "dslr_images_undistorted/DSC_0640.JPG",
+   "dslr_images_undistorted/DSC_0641.JPG",
+   "dslr_images_undistorted/DSC_0645.JPG",
+   "dslr_images_undistorted/DSC_0647.JPG"
+  ],
+  "ratio": 0.524140046454811
+ },
+ {
+  "id": "pipes_0127",
+  "scene": "pipes",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0636.JPG",
+   "dslr_images_undistorted/DSC_0638.JPG",
+   "dslr_images_undistorted/DSC_0639.JPG",
+   "dslr_images_undistorted/DSC_0644.JPG",
+   "dslr_images_undistorted/DSC_0645.JPG"
+  ],
+  "ratio": 0.29073200231105
+ },
+ {
+  "id": "pipes_0128",
+  "scene": "pipes",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0634.JPG",
+   "dslr_images_undistorted/DSC_0637.JPG",
+   "dslr_images_undistorted/DSC_0639.JPG",
+   "dslr_images_undistorted/DSC_0645.JPG",
+   "dslr_images_undistorted/DSC_0647.JPG"
+  ],
+  "ratio": 0.6312321451109101
+ },
+ {
+  "id": "pipes_0129",
+  "scene": "pipes",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0635.JPG",
+   "dslr_images_undistorted/DSC_0640.JPG",
+   "dslr_images_undistorted/DSC_0643.JPG",
+   "dslr_images_undistorted/DSC_0644.JPG",
+   "dslr_images_undistorted/DSC_0645.JPG"
+  ],
+  "ratio": 0.3662937277609342
+ },
+ {
+  "id": "pipes_0130",
+  "scene": "pipes",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0636.JPG",
+   "dslr_images_undistorted/DSC_0637.JPG",
+   "dslr_images_undistorted/DSC_0640.JPG",
+   "dslr_images_undistorted/DSC_0641.JPG",
+   "dslr_images_undistorted/DSC_0642.JPG"
+  ],
+  "ratio": 0.2699585031225775
+ },
+ {
+  "id": "pipes_0131",
+  "scene": "pipes",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0635.JPG",
+   "dslr_images_undistorted/DSC_0637.JPG",
+   "dslr_images_undistorted/DSC_0641.JPG",
+   "dslr_images_undistorted/DSC_0644.JPG",
+   "dslr_images_undistorted/DSC_0647.JPG"
+  ],
+  "ratio": 0.48675614573260156
+ },
+ {
+  "id": "pipes_0132",
+  "scene": "pipes",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0637.JPG",
+   "dslr_images_undistorted/DSC_0638.JPG",
+   "dslr_images_undistorted/DSC_0640.JPG",
+   "dslr_images_undistorted/DSC_0642.JPG",
+   "dslr_images_undistorted/DSC_0645.JPG"
+  ],
+  "ratio": 0.2713030769813767
+ },
+ {
+  "id": "pipes_0133",
+  "scene": "pipes",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0635.JPG",
+   "dslr_images_undistorted/DSC_0636.JPG",
+   "dslr_images_undistorted/DSC_0638.JPG",
+   "dslr_images_undistorted/DSC_0642.JPG",
+   "dslr_images_undistorted/DSC_0647.JPG"
+  ],
+  "ratio": 0.49821198443097675
+ },
+ {
+  "id": "pipes_0134",
+  "scene": "pipes",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0635.JPG",
+   "dslr_images_undistorted/DSC_0640.JPG",
+   "dslr_images_undistorted/DSC_0641.JPG",
+   "dslr_images_undistorted/DSC_0643.JPG",
+   "dslr_images_undistorted/DSC_0645.JPG"
+  ],
+  "ratio": 0.4622633699876899
+ },
+ {
+  "id": "pipes_0135",
+  "scene": "pipes",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0635.JPG",
+   "dslr_images_undistorted/DSC_0636.JPG",
+   "dslr_images_undistorted/DSC_0637.JPG",
+   "dslr_images_undistorted/DSC_0640.JPG",
+   "dslr_images_undistorted/DSC_0644.JPG"
+  ],
+  "ratio": 0.2479896109455274
+ },
+ {
+  "id": "pipes_0136",
+  "scene": "pipes",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0634.JPG",
+   "dslr_images_undistorted/DSC_0635.JPG",
+   "dslr_images_undistorted/DSC_0638.JPG",
+   "dslr_images_undistorted/DSC_0641.JPG",
+   "dslr_images_undistorted/DSC_0644.JPG"
+  ],
+  "ratio": 0.5784813319945548
+ },
+ {
+  "id": "pipes_0137",
+  "scene": "pipes",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0636.JPG",
+   "dslr_images_undistorted/DSC_0637.JPG",
+   "dslr_images_undistorted/DSC_0638.JPG",
+   "dslr_images_undistorted/DSC_0640.JPG",
+   "dslr_images_undistorted/DSC_0645.JPG"
+  ],
+  "ratio": 0.15376221155825476
+ },
+ {
+  "id": "pipes_0138",
+  "scene": "pipes",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0636.JPG",
+   "dslr_images_undistorted/DSC_0638.JPG",
+   "dslr_images_undistorted/DSC_0642.JPG",
+   "dslr_images_undistorted/DSC_0644.JPG",
+   "dslr_images_undistorted/DSC_0645.JPG"
+  ],
+  "ratio": 0.29861890931474333
+ },
+ {
+  "id": "pipes_0139",
+  "scene": "pipes",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0635.JPG",
+   "dslr_images_undistorted/DSC_0639.JPG",
+   "dslr_images_undistorted/DSC_0644.JPG",
+   "dslr_images_undistorted/DSC_0646.JPG",
+   "dslr_images_undistorted/DSC_0647.JPG"
+  ],
+  "ratio": 0.4277904016376627
+ },
+ {
+  "id": "pipes_0140",
+  "scene": "pipes",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0634.JPG",
+   "dslr_images_undistorted/DSC_0636.JPG",
+   "dslr_images_undistorted/DSC_0638.JPG",
+   "dslr_images_undistorted/DSC_0644.JPG",
+   "dslr_images_undistorted/DSC_0647.JPG"
+  ],
+  "ratio": 0.5147170489354947
+ },
+ {
+  "id": "terrace_0141",
+  "scene": "terrace",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0259.JPG",
+   "dslr_images_undistorted/DSC_0260.JPG",
+   "dslr_images_undistorted/DSC_0261.JPG",
+   "dslr_images_undistorted/DSC_0278.JPG",
+   "dslr_images_undistorted/DSC_0279.JPG"
+  ],
+  "ratio": 0.0862409170109831
+ },
+ {
+  "id": "terrace_0142",
+  "scene": "terrace",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0259.JPG",
+   "dslr_images_undistorted/DSC_0261.JPG",
+   "dslr_images_undistorted/DSC_0267.JPG",
+   "dslr_images_undistorted/DSC_0269.JPG",
+   "dslr_images_undistorted/DSC_0285.JPG"
+  ],
+  "ratio": 0.6600189832754563
+ },
+ {
+  "id": "terrace_0143",
+  "scene": "terrace",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0260.JPG",
+   "dslr_images_undistorted/DSC_0271.JPG",
+   "dslr_images_undistorted/DSC_0272.JPG",
+   "dslr_images_undistorted/DSC_0278.JPG",
+   "dslr_images_undistorted/DSC_0279.JPG"
+  ],
+  "ratio": 0.45241761587467044
+ },
+ {
+  "id": "terrace_0144",
+  "scene": "terrace",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0259.JPG",
+   "dslr_images_undistorted/DSC_0260.JPG",
+   "dslr_images_undistorted/DSC_0261.JPG",
+   "dslr_images_undistorted/DSC_0262.JPG",
+   "dslr_images_undistorted/DSC_0279.JPG"
+  ],
+  "ratio": 0.10265572313244571
+ },
+ {
+  "id": "terrace_0145",
+  "scene": "terrace",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0260.JPG",
+   "dslr_images_undistorted/DSC_0261.JPG",
+   "dslr_images_undistorted/DSC_0276.JPG",
+   "dslr_images_undistorted/DSC_0283.JPG",
+   "dslr_images_undistorted/DSC_0284.JPG"
+  ],
+  "ratio": 0.5530721361905082
+ },
+ {
+  "id": "terrace_0146",
+  "scene": "terrace",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0260.JPG",
+   "dslr_images_undistorted/DSC_0261.JPG",
+   "dslr_images_undistorted/DSC_0262.JPG",
+   "dslr_images_undistorted/DSC_0263.JPG",
+   "dslr_images_undistorted/DSC_0264.JPG"
+  ],
+  "ratio": 0.2711382556448642
+ },
+ {
+  "id": "terrace_0147",
+  "scene": "terrace",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0262.JPG",
+   "dslr_images_undistorted/DSC_0272.JPG",
+   "dslr_images_undistorted/DSC_0274.JPG",
+   "dslr_images_undistorted/DSC_0275.JPG",
+   "dslr_images_undistorted/DSC_0284.JPG"
+  ],
+  "ratio": 0.41528110470490737
+ },
+ {
+  "id": "terrace_0148",
+  "scene": "terrace",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0263.JPG",
+   "dslr_images_undistorted/DSC_0266.JPG",
+   "dslr_images_undistorted/DSC_0267.JPG",
+   "dslr_images_undistorted/DSC_0273.JPG",
+   "dslr_images_undistorted/DSC_0278.JPG"
+  ],
+  "ratio": 0.5872561774861775
+ },
+ {
+  "id": "terrace_0149",
+  "scene": "terrace",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0262.JPG",
+   "dslr_images_undistorted/DSC_0263.JPG",
+   "dslr_images_undistorted/DSC_0264.JPG",
+   "dslr_images_undistorted/DSC_0266.JPG",
+   "dslr_images_undistorted/DSC_0267.JPG"
+  ],
+  "ratio": 0.32906123133740145
+ },
+ {
+  "id": "terrace_0150",
+  "scene": "terrace",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0259.JPG",
+   "dslr_images_undistorted/DSC_0263.JPG",
+   "dslr_images_undistorted/DSC_0264.JPG",
+   "dslr_images_undistorted/DSC_0270.JPG",
+   "dslr_images_undistorted/DSC_0279.JPG"
+  ],
+  "ratio": 0.5768503182420219
+ },
+ {
+  "id": "terrace_0151",
+  "scene": "terrace",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0264.JPG",
+   "dslr_images_undistorted/DSC_0266.JPG",
+   "dslr_images_undistorted/DSC_0267.JPG",
+   "dslr_images_undistorted/DSC_0268.JPG",
+   "dslr_images_undistorted/DSC_0283.JPG"
+  ],
+  "ratio": 0.21349861352587132
+ },
+ {
+  "id": "terrace_0152",
+  "scene": "terrace",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0263.JPG",
+   "dslr_images_undistorted/DSC_0266.JPG",
+   "dslr_images_undistorted/DSC_0269.JPG",
+   "dslr_images_undistorted/DSC_0271.JPG",
+   "dslr_images_undistorted/DSC_0272.JPG"
+  ],
+  "ratio": 0.5137597239601075
+ },
+ {
+  "id": "terrace_0153",
+  "scene": "terrace",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0266.JPG",
+   "dslr_images_undistorted/DSC_0267.JPG",
+   "dslr_images_undistorted/DSC_0268.JPG",
+   "dslr_images_undistorted/DSC_0269.JPG",
+   "dslr_images_undistorted/DSC_0283.JPG"
+  ],
+  "ratio": 0.17061432662265652
+ },
+ {
+  "id": "terrace_0154",
+  "scene": "terrace",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0260.JPG",
+   "dslr_images_undistorted/DSC_0261.JPG",
+   "dslr_images_undistorted/DSC_0267.JPG",
+   "dslr_images_undistorted/DSC_0271.JPG",
+   "dslr_images_undistorted/DSC_0283.JPG"
+  ],
+  "ratio": 0.6341578127824743
+ },
+ {
+  "id": "terrace_0155",
+  "scene": "terrace",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0260.JPG",
+   "dslr_images_undistorted/DSC_0263.JPG",
+   "dslr_images_undistorted/DSC_0264.JPG",
+   "dslr_images_undistorted/DSC_0268.JPG",
+   "dslr_images_undistorted/DSC_0269.JPG"
+  ],
+  "ratio": 0.5120633123761636
+ },
+ {
+  "id": "terrace_0156",
+  "scene": "terrace",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0268.JPG",
+   "dslr_images_undistorted/DSC_0269.JPG",
+   "dslr_images_undistorted/DSC_0270.JPG",
+   "dslr_images_undistorted/DSC_0283.JPG",
+   "dslr_images_undistorted/DSC_0284.JPG"
+  ],
+  "ratio": 0.1772820525304991
+ },
+ {
+  "id": "terrace_0157",
+  "scene": "terrace",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0269.JPG",
+   "dslr_images_undistorted/DSC_0270.JPG",
+   "dslr_images_undistorted/DSC_0272.JPG",
+   "dslr_images_undistorted/DSC_0273.JPG",
+   "dslr_images_undistorted/DSC_0279.JPG"
+  ],
+  "ratio": 0.43452617722273706
+ },
+ {
+  "id": "terrace_0158",
+  "scene": "terrace",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0269.JPG",
+   "dslr_images_undistorted/DSC_0270.JPG",
+   "dslr_images_undistorted/DSC_0271.JPG",
+   "dslr_images_undistorted/DSC_0272.JPG",
+   "dslr_images_undistorted/DSC_0284.JPG"
+  ],
+  "ratio": 0.17959264045337825
+ },
+ {
+  "id": "terrace_0159",
+  "scene": "terrace",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0262.JPG",
+   "dslr_images_undistorted/DSC_0263.JPG",
+   "dslr_images_undistorted/DSC_0269.JPG",
+   "dslr_images_undistorted/DSC_0270.JPG",
+   "dslr_images_undistorted/DSC_0278.JPG"
+  ],
+  "ratio": 0.7231040003710087
+ },
+ {
+  "id": "terrace_0160",
+  "scene": "terrace",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0270.JPG",
+   "dslr_images_undistorted/DSC_0271.JPG",
+   "dslr_images_undistorted/DSC_0272.JPG",
+   "dslr_images_undistorted/DSC_0284.JPG",
+   "dslr_images_undistorted/DSC_0285.JPG"
+  ],
+  "ratio": 0.2126378913217359
+ },
+ {
+  "id": "terrace_0161",
+  "scene": "terrace",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0260.JPG",
+   "dslr_images_undistorted/DSC_0267.JPG",
+   "dslr_images_undistorted/DSC_0269.JPG",
+   "dslr_images_undistorted/DSC_0271.JPG",
+   "dslr_images_undistorted/DSC_0276.JPG"
+  ],
+  "ratio": 0.6010783164590612
+ },
+ {
+  "id": "terrace_0162",
+  "scene": "terrace",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0271.JPG",
+   "dslr_images_undistorted/DSC_0272.JPG",
+   "dslr_images_undistorted/DSC_0273.JPG",
+   "dslr_images_undistorted/DSC_0274.JPG",
+   "dslr_images_undistorted/DSC_0285.JPG"
+  ],
+  "ratio": 0.23719069989670707
+ },
+ {
+  "id": "terrace_0163",
+  "scene": "terrace",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0261.JPG",
+   "dslr_images_undistorted/DSC_0264.JPG",
+   "dslr_images_undistorted/DSC_0269.JPG",
+   "dslr_images_undistorted/DSC_0272.JPG",
+   "dslr_images_undistorted/DSC_0277.JPG"
+  ],
+  "ratio": 0.5830847767891577
+ },
+ {
+  "id": "terrace_0164",
+  "scene": "terrace",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0271.JPG",
+   "dslr_images_undistorted/DSC_0272.JPG",
+   "dslr_images_undistorted/DSC_0273.JPG",
+   "dslr_images_undistorted/DSC_0274.JPG",
+   "dslr_images_undistorted/DSC_0275.JPG"
+  ],
+  "ratio": 0.2464118660025914
+ },
+ {
+  "id": "terrace_0165",
+  "scene": "terrace",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0269.JPG",
+   "dslr_images_undistorted/DSC_0270.JPG",
+   "dslr_images_undistorted/DSC_0272.JPG",
+   "dslr_images_undistorted/DSC_0273.JPG",
+   "dslr_images_undistorted/DSC_0274.JPG"
+  ],
+  "ratio": 0.28819498985793635
+ },
+ {
+  "id": "terrace_0166",
+  "scene": "terrace",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0272.JPG",
+   "dslr_images_undistorted/DSC_0273.JPG",
+   "dslr_images_undistorted/DSC_0274.JPG",
+   "dslr_images_undistorted/DSC_0275.JPG",
+   "dslr_images_undistorted/DSC_0276.JPG"
+  ],
+  "ratio": 0.16663898526761847
+ },
+ {
+  "id": "terrace_0167",
+  "scene": "terrace",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0262.JPG",
+   "dslr_images_undistorted/DSC_0270.JPG",
+   "dslr_images_undistorted/DSC_0274.JPG",
+   "dslr_images_undistorted/DSC_0276.JPG",
+   "dslr_images_undistorted/DSC_0278.JPG"
+  ],
+  "ratio": 0.35241014235846413
+ },
+ {
+  "id": "terrace_0168",
+  "scene": "terrace",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0273.JPG",
+   "dslr_images_undistorted/DSC_0274.JPG",
+   "dslr_images_undistorted/DSC_0275.JPG",
+   "dslr_images_undistorted/DSC_0276.JPG",
+   "dslr_images_undistorted/DSC_0277.JPG"
+  ],
+  "ratio": 0.17514203057114633
+ },
+ {
+  "id": "terrace_0169",
+  "scene": "terrace",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0262.JPG",
+   "dslr_images_undistorted/DSC_0270.JPG",
+   "dslr_images_undistorted/DSC_0273.JPG",
+   "dslr_images_undistorted/DSC_0275.JPG",
+   "dslr_images_undistorted/DSC_0276.JPG"
+  ],
+  "ratio": 0.5444674126573585
+ },
+ {
+  "id": "terrace_0170",
+  "scene": "terrace",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0274.JPG",
+   "dslr_images_undistorted/DSC_0275.JPG",
+   "dslr_images_undistorted/DSC_0276.JPG",
+   "dslr_images_undistorted/DSC_0277.JPG",
+   "dslr_images_undistorted/DSC_0278.JPG"
+  ],
+  "ratio": 0.15261346985294424
+ },
+ {
+  "id": "terrace_0171",
+  "scene": "terrace",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0260.JPG",
+   "dslr_images_undistorted/DSC_0269.JPG",
+   "dslr_images_undistorted/DSC_0270.JPG",
+   "dslr_images_undistorted/DSC_0276.JPG",
+   "dslr_images_undistorted/DSC_0285.JPG"
+  ],
+  "ratio": 0.49686633025582
+ },
+ {
+  "id": "terrace_0172",
+  "scene": "terrace",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0275.JPG",
+   "dslr_images_undistorted/DSC_0276.JPG",
+   "dslr_images_undistorted/DSC_0277.JPG",
+   "dslr_images_undistorted/DSC_0278.JPG",
+   "dslr_images_undistorted/DSC_0279.JPG"
+  ],
+  "ratio": 0.13816871146310344
+ },
+ {
+  "id": "terrace_0173",
+  "scene": "terrace",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0263.JPG",
+   "dslr_images_undistorted/DSC_0264.JPG",
+   "dslr_images_undistorted/DSC_0277.JPG",
+   "dslr_images_undistorted/DSC_0279.JPG",
+   "dslr_images_undistorted/DSC_0284.JPG"
+  ],
+  "ratio": 0.43504992683764765
+ },
+ {
+  "id": "terrace_0174",
+  "scene": "terrace",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0259.JPG",
+   "dslr_images_undistorted/DSC_0276.JPG",
+   "dslr_images_undistorted/DSC_0277.JPG",
+   "dslr_images_undistorted/DSC_0278.JPG",
+   "dslr_images_undistorted/DSC_0279.JPG"
+  ],
+  "ratio": 0.11476733941752328
+ },
+ {
+  "id": "terrace_0175",
+  "scene": "terrace",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0261.JPG",
+   "dslr_images_undistorted/DSC_0266.JPG",
+   "dslr_images_undistorted/DSC_0272.JPG",
+   "dslr_images_undistorted/DSC_0278.JPG",
+   "dslr_images_undistorted/DSC_0284.JPG"
+  ],
+  "ratio": 0.5674116038942901
+ },
+ {
+  "id": "terrace_0176",
+  "scene": "terrace",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0259.JPG",
+   "dslr_images_undistorted/DSC_0260.JPG",
+   "dslr_images_undistorted/DSC_0267.JPG",
+   "dslr_images_undistorted/DSC_0272.JPG",
+   "dslr_images_undistorted/DSC_0279.JPG"
+  ],
+  "ratio": 0.4810904520209568
+ },
+ {
+  "id": "terrace_0177",
+  "scene": "terrace",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0262.JPG",
+   "dslr_images_undistorted/DSC_0272.JPG",
+   "dslr_images_undistorted/DSC_0276.JPG",
+   "dslr_images_undistorted/DSC_0277.JPG",
+   "dslr_images_undistorted/DSC_0283.JPG"
+  ],
+  "ratio": 0.43792031904561546
+ },
+ {
+  "id": "terrace_0178",
+  "scene": "terrace",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0268.JPG",
+   "dslr_images_undistorted/DSC_0269.JPG",
+   "dslr_images_undistorted/DSC_0270.JPG",
+   "dslr_images_undistorted/DSC_0271.JPG",
+   "dslr_images_undistorted/DSC_0284.JPG"
+  ],
+  "ratio": 0.16991048363735103
+ },
+ {
+  "id": "terrace_0179",
+  "scene": "terrace",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0269.JPG",
+   "dslr_images_undistorted/DSC_0274.JPG",
+   "dslr_images_undistorted/DSC_0275.JPG",
+   "dslr_images_undistorted/DSC_0278.JPG",
+   "dslr_images_undistorted/DSC_0284.JPG"
+  ],
+  "ratio": 0.3451768145291621
+ },
+ {
+  "id": "terrace_0180",
+  "scene": "terrace",
+  "kind": "near",
+  "images": [
+   "dslr_images_undistorted/DSC_0270.JPG",
+   "dslr_images_undistorted/DSC_0271.JPG",
+   "dslr_images_undistorted/DSC_0272.JPG",
+   "dslr_images_undistorted/DSC_0273.JPG",
+   "dslr_images_undistorted/DSC_0285.JPG"
+  ],
+  "ratio": 0.2387923702246456
+ },
+ {
+  "id": "terrace_0181",
+  "scene": "terrace",
+  "kind": "random",
+  "images": [
+   "dslr_images_undistorted/DSC_0261.JPG",
+   "dslr_images_undistorted/DSC_0266.JPG",
+   "dslr_images_undistorted/DSC_0273.JPG",
+   "dslr_images_undistorted/DSC_0284.JPG",
+   "dslr_images_undistorted/DSC_0285.JPG"
+  ],
+  "ratio": 0.5402397925273408
+ }
+]

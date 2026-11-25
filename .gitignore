@@ -1,0 +1,18 @@
+# environment and third-party code (installed / cloned per README)
+/.venv/
+/vggt/
+
+# ETH3D data (download per README, not redistributed)
+/data/
+
+# large COLMAP working files; keep only the per-subset pose results
+results/colmap/*/*
+!results/colmap/*/poses.npz
+
+# logs (contain local paths)
+results/*.txt
+
+# OS / Python clutter
+.DS_Store
+__pycache__/
+*.pyc
