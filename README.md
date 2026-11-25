@@ -74,6 +74,9 @@ fails" = share of subsets where COLMAP could not register all 5 images.
   (0.5°).
 - Bundle adjustment from VGGT's poses helps in every bin, most at the lowest
   parallax (AUC@5 20 → 59).
+- Yet VGGT alone was more accurate than VGGT + BA in about 22% of image
+  pairs (22.3% for rotation, 22.0% for translation direction; between 14%
+  and 31% depending on the bin), so a prior still has some room to help.
 - COLMAP is very precise when it works but fails on most of these small,
   low-overlap sets. Raising SIFT resolution to 3200 px did not change that
   (checked on 12 failed subsets).
