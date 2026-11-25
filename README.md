@@ -77,6 +77,11 @@ fails" = share of subsets where COLMAP could not register all 5 images.
 - Yet VGGT alone was more accurate than VGGT + BA in about 22% of image
   pairs (22.3% for rotation, 22.0% for translation direction; between 14%
   and 31% depending on the bin), so a prior still has some room to help.
+  These cases come mostly from subsets where few points could be
+  triangulated, not from low parallax: VGGT wins 31% of pairs in the third
+  of subsets with the fewest BA points (< 746), but only 10% in the third
+  with the most (≥ 2467), and 28% in the "random" vs. 14% in the "near"
+  subsets.
 - COLMAP is very precise when it works but fails on most of these small,
   low-overlap sets. Raising SIFT resolution to 3200 px did not change that
   (checked on 12 failed subsets).
